@@ -1,0 +1,6 @@
+
+ tStep = 1000
+
+ tEnd = 10000000
+
+ Execution time = 0.060000 sec
