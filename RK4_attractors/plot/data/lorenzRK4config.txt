@@ -1,0 +1,10 @@
+
+ delta0 = 0.000001
+
+ tStepStart = 0.001000
+
+ tEnd = 100.000000
+
+ Written lines = 9146
+
+ Execution time = 0.030000 sec
